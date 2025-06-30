@@ -1,35 +1,27 @@
-# Basic Calculator
+# JavaScript Calculator
 
-This is a simple calculator built using **HTML**, **CSS**, and **JavaScript**. It performs basic arithmetic operations and has a clean, responsive UI.
+A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScript**. It supports basic arithmetic operations like addition, subtraction, multiplication, and division.
 
-## Features
+## ✨ Features
 
-- Addition, Subtraction, Multiplication, Division
-- Responsive design (works on mobile, tablet, and desktop)
-- Clear and Delete functionality
-- Keyboard input support (optional, if added)
+- Basic operations: +, −, ×, ÷
+- Clear and delete functionality
+- Keyboard input support
+- Responsive layout using CSS Grid
+- Error handling for invalid operations
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - HTML
-- CSS (with Grid layout for buttons)
-- JavaScript (Event Listeners, if-else, operators)
+- CSS
+- JavaScript
 
-## How to Use
+## 🚀 How to Use
 
-1. Clone or download the repository
-2. Open `index.html` in your browser
-3. Start calculating!
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/jayanth-thupakula/codesoft_task2.git
 
-## Project Structure
+    Navigate to the project directory and open index.html in your browser.
 
-calculator/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-
-
----
-
-Let me know if you'd like to add your name, GitHub repo link, or live demo instructions!
+Enjoy calculating!
